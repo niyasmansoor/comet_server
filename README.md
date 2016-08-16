@@ -20,7 +20,7 @@
     
   Packages
 
-1. websocket_server.zip
+1. websocket_server_master.zip
 
                   This contains the code necessary to implement a websocket4j server . Its an eclipse project .
   
@@ -34,6 +34,7 @@ Steps to run server.
 
        –      Extract the project in your local eclispe workspace.    
        –      Import the project in eclipse.
+       
 Build the project
 Run WebSocketMessageServer.java. This will start the server and wait for client requests in port 9000
 
