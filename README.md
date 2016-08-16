@@ -1,5 +1,5 @@
 
- LONG POLLING – IMPLEMENTATION – PROOF OF CONCEPT
+ LONG POLLING – IMPLEMENTATION – WEBSOCKET4J [SERVER]
 
    Long polling is a variation of the traditional polling technique and allows emulation of an information push from a server to a client. With long polling, the client requests information from the server in a similar way to a normal poll .
 
