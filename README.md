@@ -20,7 +20,7 @@
     
   Packages
 
-1. websocket_server_master.zip
+1. comet_server_master.zip
 
                   This contains the code necessary to implement a websocket4j server . Its an eclipse project .
   
